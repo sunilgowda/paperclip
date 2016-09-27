@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency('shoulda')
   s.add_development_dependency('appraisal', '~> 0.4.0')
   s.add_development_dependency('mocha')
-  s.add_development_dependency('aws-sdk')
+  s.add_development_dependency('aws-sdk-v1')
   s.add_development_dependency('sqlite3', '~> 1.3.5')
   s.add_development_dependency('cucumber', '~> 1.1.0')
   s.add_development_dependency('aruba')
